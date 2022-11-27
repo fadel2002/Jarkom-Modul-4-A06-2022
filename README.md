@@ -36,9 +36,22 @@ Kemudian juga menjalankan command
 
 ``` route add -net <NID> netmask <net mask> gw <gateway routing> ``` untuk setiap destinasi jaringan subnet yang perlu dihubungkan
 
+## CIDR
+
+![CIDR](CIDR/iterasi1.png)
+![CIDR](CIDR/iterasi2.png)
+![CIDR](CIDR/iterasi3.png)
+![CIDR](CIDR/iterasi4.png)
+![CIDR](CIDR/iterasi5.png)
+![CIDR](CIDR/iterasi6.png)
+![CIDR](CIDR/iterasi7.png)
+![CIDR](CIDR/iterasi8.png)
+
 ## Kendala
 
 GNS3 tidak dapat terhubung dengan internet walaupun sudah dijalankan iptables dan memasukkan nameserver 192.168.122.1 pada node dan router.
 
 ## Dokumentasi
 ![VLSM Dokumentasi](VLSM/Dokumentasi.png)
+
+
